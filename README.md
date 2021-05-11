@@ -4,10 +4,12 @@ simple examples with the [guizero](https://lawsie.github.io/guizero/) library.
 ----
 
 ### Installation
+
+Open a shell, ensure [`Python 3`](https://www.python.org/) is already installed on your system, then install the [`guizero`](https://lawsie.github.io/guizero/) library with:
+
 ``` Shell
-> mkdir guizero
-> cd    guizero
 > pip install guizero
+> git clone https://github.com/jmparis/guizero-tutorial.git
 ```
 
 ----
